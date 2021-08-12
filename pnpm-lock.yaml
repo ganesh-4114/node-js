@@ -1,0 +1,18 @@
+dependencies:
+  git: 0.1.5
+lockfileVersion: 5.2
+packages:
+  /git/0.1.5:
+    dependencies:
+      mime: 1.2.9
+    dev: false
+    engines:
+      node: '>=0.4.0'
+    resolution:
+      integrity: sha1-nvYt+T+FHCdUIUO/UtHGixAXyhU=
+  /mime/1.2.9:
+    dev: false
+    resolution:
+      integrity: sha1-AJzUCGe9Nd5SGzuWbwTi+NTRPQk=
+specifiers:
+  git: ^0.1.5
